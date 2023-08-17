@@ -3,7 +3,7 @@ oauth2:
     github:
       client-id: f3baa022e59aef7557ea
       client-secret: ENC(GCxz5azwg+WmshpvuitkvrFFKknKMBUCaqJiQGIWPC/yFyo5o1rsYRREF2ntQduqLVbImzjDUOI=)
-      redirect-uri: http://localhost:5173/login/oauth2/code/github
+      redirect-uri: http://issue-tracker-team3.s3-website.ap-northeast-2.amazonaws.com/login/oauth2/code/github
   provider:
     github:
       token-uri: https://github.com/login/oauth/access_token
